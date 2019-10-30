@@ -1,0 +1,13 @@
+{
+    "name": "index_mongo",
+    "version": "1.0.0",
+    "main": "app.js",
+    "author": "Bruno Cabral",
+    "license": "MIT",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "mongoose": "^5.7.3"
+    }
+}
